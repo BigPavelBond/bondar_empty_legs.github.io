@@ -23,7 +23,7 @@ h1{
     text-transform: uppercase;
     text-align: center;
     position: relative;
-    font-family: 'Pro Medium';
+    font-family: 'Pro Medium', sans-serif;
 }
 /*ГЛАВНАЯ*/
 .main{
@@ -42,7 +42,7 @@ h1{
     display: flex;
     list-style: none;
     margin-left: 33.5%;
-    font-family: 'Pro Bold';
+    font-family: 'Pro Bold', sans-serif;
 
 }
 .main__navigation a{
@@ -72,7 +72,7 @@ h1{
     margin-left: 32%;
     max-width: 1000px;
     margin-bottom: 125px;
-    font-family: 'Pro Regular';
+    font-family: 'Pro Regular', sans-serif;
 }
 .main__charters a{
     color: #929292;
@@ -92,7 +92,7 @@ h1{
 .main__quote{
     margin-left: 33%;
     position: relative;
-    font-family: 'Pro Medium';
+    font-family: 'Pro Medium', sans-serif;
     font-size: 18px;
         line-height: 25px
 }
@@ -129,6 +129,7 @@ h1{
     border-bottom: 2px solid #a7d2db;
     color: #a7d2db;
     margin-right: 10px;
+    font-family: 'Pro Bold', sans-serif;
 }
 .main__flights-rect {
     border-top: 5px solid transparent;
@@ -146,7 +147,7 @@ h1{
 }
 .main__list p{
     margin-bottom: 45px;
-    font-family: 'Pro Thin';
+    font-family: 'Pro Thin', sans-serif;
     font-size: 18px;
 }
 .main__list{
@@ -168,7 +169,7 @@ h1{
 .callback a{
     color: #fff;
     padding: 15px;
-    font-family: 'Pro Bold';
+    font-family: 'Pro Bold', sans-serif;
 }
 .callback a:hover{
     color:#7FFFD4;
@@ -197,7 +198,7 @@ h1{
 }
 .pros__block h2{
     padding-bottom: 22px;
-    font-family: 'Pro Bold';
+    font-family: 'Pro Bold', sans-serif;
     padding-top: 3px;
     text-transform: uppercase;
     font-size: 20px;
@@ -215,10 +216,10 @@ h1{
 }
 .pros__number p{
     color: #fff;
-    font-family: 'Pro Black';
+    font-family: 'Pro Black', sans-serif;
 }
 .pros__dignity{
-    font-family: 'Pro Thin';
+    font-family: 'Pro Thin', sans-serif;
 }
 .pros__line{
     display: inline-block;
@@ -239,7 +240,7 @@ h1{
     display: block;
     text-align: center;
     margin-top: 80px;
-    font-family: 'Pro ExtraThin';
+    font-family: 'Pro ExtraThin', sans-serif;
     letter-spacing: 18px;
 }
 .timetable h3{
@@ -289,7 +290,7 @@ h1{
     border-right: 1px solid #d7d7d7;
     text-transform: uppercase;
     padding: 30px 40px;
-    font-family: 'Pro Bold';
+    font-family: 'Pro Bold', sans-serif;
 }
 .timetable__table th:last-child{
     border-right: none;
@@ -298,7 +299,7 @@ h1{
     color: #555555;
     border-right:1px solid #d7d7d7;
     padding: 30px 40px;
-     font-family: 'Pro Medium';
+     font-family: 'Pro Medium', sans-serif;
 }
 .timetable__table tr:last-child td {
     border-bottom: none;
@@ -335,7 +336,7 @@ td> a:hover{
     -webkit-transition: 1s all;
     -o-transition: 1s all;
     transition: 1s all;
-    font-family: 'Pro Bold';
+    font-family: 'Pro Bold', sans-serif;
 }
 .timetable_more-rect{
     width: 0;
@@ -368,7 +369,7 @@ td> a:hover{
     display: block;
     text-align: center;
     margin-top: 80px;
-    font-family: 'Pro ExtraThin';
+    font-family: 'Pro ExtraThin', sans-serif;
     letter-spacing: 18px;
 }
 .footer__contacts{
@@ -384,7 +385,6 @@ td> a:hover{
         flex-basis: 33%;
     vertical-align: middle;
     display: block;
-
 }
 .footer__block img{
     vertical-align: middle;
@@ -394,13 +394,13 @@ td> a:hover{
     color: #464646;
     vertical-align: middle;
     text-transform: uppercase;
-    font-family: 'Pro Thin';
+    font-family: 'Pro Thin', sans-serif;
     letter-spacing: 3px;
 }
 .footer__p2{
     margin-top: 20px;
     margin-bottom: 25px;
-    font-family: 'Pro Medium';
+    font-family: 'Pro Medium', sans-serif;
     font-size: 28px;
      color: #7e7e7e;
 }
@@ -429,7 +429,7 @@ td> a:hover{
             justify-content: space-between;
     color: #7e7e7e;
     margin: 180px 160px 40px 160px;
-    font-family: 'Pro Thin';
+    font-family: 'Pro Thin', sans-serif;
 }
 .footer__autor-data{
     -ms-flex-preferred-size: 25%;
@@ -506,7 +506,7 @@ td> a:hover{
     -webkit-transition: 0.5s all;
     -o-transition: 0.5s all;
     transition: 0.5s all;
-    font-family: 'Pro Black';
+    font-family: 'Pro Black', sans-serif;
     text-transform: uppercase;
     margin-left: 10px;
 }
@@ -520,7 +520,7 @@ td> a:hover{
     text-align: center;
     margin-bottom: 20px;
     color:#fff;
-    font-family: 'Pro Bold';
+    font-family: 'Pro Bold', sans-serif;
 }
 .popup__form{
    display: -webkit-box;
