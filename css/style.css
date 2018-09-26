@@ -126,8 +126,7 @@ h1{
     transition: all 1s;
 }
 .main__flights a{
-    border-bottom: 2px solid #a7d2db;
-    color: #a7d2db;
+    border-bottom: 2px solid #555;
     margin-right: 10px;
     font-family: 'Pro Bold', sans-serif;
 }
@@ -139,8 +138,8 @@ h1{
     vertical-align: middle;
 }
 .main__flights a:hover{
-    color: #000;
-    border-color: #000;
+    color: #a7d2db;
+    border-color: #a7d2db;
     -webkit-transition: all 1s;
     -o-transition: all 1s;
     transition: all 1s;
