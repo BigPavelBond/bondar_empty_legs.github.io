@@ -276,7 +276,7 @@ h1{
     width:100%;
 }
 .timetable__table {
-    font-size: 14px;
+    font-size: 17px;
     text-align: left;
     border-collapse: collapse;
     margin: 0 auto;
@@ -291,7 +291,7 @@ h1{
     border-right: 1px solid #d7d7d7;
     text-transform: uppercase;
     padding: 30px 40px;
-    width: 230px;
+    width: 260px;
     font-family: 'Pro Bold', sans-serif;
 }
 .timetable__table th:last-child{
@@ -439,10 +439,7 @@ td> a:hover{
         flex-basis: 25%;
 
 }
-.footer__autor-name{
-    -ms-flex-preferred-size: 25%;
-        flex-basis: 25%;
-}
+
 .footer__autor-name img{
     margin-left: 10px;
 }
