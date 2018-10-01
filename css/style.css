@@ -73,6 +73,7 @@ h1{
     max-width: 1000px;
     margin-bottom: 125px;
     font-family: 'Pro Regular', sans-serif;
+    margin-top: 15px;
 }
 .main__charters a{
     color: #929292;
@@ -112,7 +113,7 @@ h1{
     height: 2px;
 }
 .main__flights {
-    margin-left: 80%;
+    margin-left: 77.5%;
     text-align: right;
     display: inline-block;
     position: relative;
@@ -281,6 +282,7 @@ h1{
     margin: 0 auto;
     width: 70%;
     margin-bottom: 130px;
+    margin-top: 135px;
 }
 .timetable__table th {
     color: #555555;
@@ -289,6 +291,7 @@ h1{
     border-right: 1px solid #d7d7d7;
     text-transform: uppercase;
     padding: 30px 40px;
+    width: 230px;
     font-family: 'Pro Bold', sans-serif;
 }
 .timetable__table th:last-child{
@@ -395,13 +398,14 @@ td> a:hover{
     text-transform: uppercase;
     font-family: 'Pro Thin', sans-serif;
     letter-spacing: 3px;
+    padding-left: 10px;
 }
 .footer__p2{
     margin-top: 20px;
     margin-bottom: 25px;
     font-family: 'Pro Medium', sans-serif;
-    font-size: 28px;
-     color: #7e7e7e;
+    font-size: 34px;
+    color: #7e7e7e;
 }
 .footer__p2 a{
     color: #7e7e7e;
